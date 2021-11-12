@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathApp", "MathApp\MathApp.csproj", "{1110962F-883D-4C9C-B6E3-268C025F94E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLibrary", "SpeedMath\DataLibrary.csproj", "{F3BDB51A-6DC6-4935-BD16-9F1DE916B6F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1110962F-883D-4C9C-B6E3-268C025F94E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1110962F-883D-4C9C-B6E3-268C025F94E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1110962F-883D-4C9C-B6E3-268C025F94E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1110962F-883D-4C9C-B6E3-268C025F94E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3BDB51A-6DC6-4935-BD16-9F1DE916B6F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3BDB51A-6DC6-4935-BD16-9F1DE916B6F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3BDB51A-6DC6-4935-BD16-9F1DE916B6F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3BDB51A-6DC6-4935-BD16-9F1DE916B6F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0C415C8-4937-482C-B537-1E73005B21CE}
+	EndGlobalSection
+EndGlobal
